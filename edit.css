@@ -1,0 +1,27 @@
+/* Add this CSS to your existing styles or in a separate stylesheet */
+body {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .dark-mode {
+    background-color: #1e1e1e;
+    color: #fff;
+  }
+  
+  .card {
+    background-color: #fff; /* Light mode background color */
+    color: #000; /* Light mode text color */
+  }
+  
+  .btn-dark {
+    background-color: #343a40; /* Dark mode button color */
+    color: #fff; /* Dark mode button text color */
+    border-color: #343a40; /* Dark mode button border color */
+  }
+  
+  .btn-dark:hover {
+    background-color: #23272b; /* Dark mode button color on hover */
+    color: #fff; /* Dark mode button text color on hover */
+    border-color: #1d2124; /* Dark mode button border color on hover */
+  }
+  

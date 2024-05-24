@@ -1,0 +1,21 @@
+
+  
+  .datetime {
+    font-size: 10px;
+    padding: 20px;
+    color: #7163ba;
+    width: 300px;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .time {
+    font-size: 1.80em;
+    color: #7163ba;
+  }
+  
+  .date {
+    margin-top: 10px;
+    font-size: 1.75em;
+  }
+  
